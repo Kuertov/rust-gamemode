@@ -1,0 +1,10 @@
+
+*.log
+*.amx
+*.tmp
+
+# Папки с зависимостями или кэшем
+.vscode/
+pawno/
+npcmodes/
+filterscripts/
