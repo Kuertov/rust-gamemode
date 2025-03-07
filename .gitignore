@@ -5,6 +5,9 @@
 
 # Папки с зависимостями или кэшем
 .vscode/
-pawno/
+pawno/*
+!pawno/
+!pawno/include/
+!pawno/include/*
 npcmodes/
 filterscripts/
